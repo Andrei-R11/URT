@@ -5,7 +5,7 @@ label define SiNo 1"Sí" 0"No"
 scalar PPA =1344.144
 scalar lineaPobrezaExtrema= 74.427294
 scalar lineaPobreza=125.86821
-/********************************************************Ingreso Y Pobreza************************************************************************/
+/*******************************************************Ingreso Y Pobreza************************************************************************/
 {
 use "Encuesta Hogares URT_corregida", clear
 *Ingreso de renta de activos
