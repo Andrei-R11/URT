@@ -1,5 +1,4 @@
 cd "C:\Users\a.romero11\OneDrive\CEDE\URT\Bases de datos\06-25-2019\"
-*cd "C:\Users\andre\OneDrive\CEDE\URT\Bases de datos\06-25-2019\"
 use "Encuesta Hogares URT_corregida", clear
 label define categorias 1 "Sí" 0 "No"
 label define SiNo 1"Sí" 0"No"
